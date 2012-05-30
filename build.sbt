@@ -1,0 +1,1 @@
+libraryDependencies += "org" % "jaudiotagger" % "2.0.3"
